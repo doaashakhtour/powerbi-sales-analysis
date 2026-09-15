@@ -145,7 +145,7 @@ Interactive slicers allow users to explore performance across different periods 
 
 Provides a high-level overview of key sales KPIs and overall business performance.
 
-![Executive Dashboard](Images/Executive%20Dashboard.JPG)
+![Executive Dashboard](Images/executive_dashboard.jpg)
 
 ### Sales Analysis Dashboard
 
